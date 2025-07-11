@@ -6,3 +6,22 @@ Features of the project
 - 📊 Pie Chart Visualization — Displays Positive vs Negative feedback in real-time
 - 🗃 Session Review History — Stores and displays reviews from current session
 - 🎨 Stylish UI— Rounded corners, soft color themes, responsive feedback
+
+
+Project Overview:
+This is a GUI-based Sentiment Analysis tool built using Python and Tkinter. It analyzes product reviews, detects user intent, and visualizes the results—all in a visually appealing and interactive interface. Ideal for businesses looking to quickly interpret customer feedback.
+
+  i)Working of Project:
+  - Uses a pre-trained Machine Learning model to classify input text as Positive or Negative.
+  - Applies keyword-based logic to detect user intent such as Purchase, Return/Cancel,   Recommendation, or Feedback.
+  - Real-time pie chart displays overall sentiment distribution.
+  
+  ii)Technology used
+  - Python
+  - Tkinter (GUI)
+  - Scikit-learn (Model)
+  - Matplotlib (Charts)
+  - Pillow (Image handling)
+
+Screenshot of the project:
+![App Screenshot](sentiment_analysis_project_screenshot.png)

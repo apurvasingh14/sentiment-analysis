@@ -9,7 +9,8 @@ Features of the project
 
 
 Project Overview:
-This is a GUI-based Sentiment Analysis tool built using Python and Tkinter. It analyzes product reviews, detects user intent, and visualizes the results—all in a visually appealing and interactive interface. Ideal for businesses looking to quickly interpret customer feedback.
+    -This is a GUI-based Sentiment Analysis tool built using Python and Tkinter. It analyzes product reviews, detects user intent, and visualizes the results—all in a visually appealing and interactive interface.        Ideal for businesses looking to quickly interpret customer feedback.
+    -The project uses Navie Bayes classifier
 
   i)Working of Project:
   - Uses a pre-trained Machine Learning model to classify input text as Positive or Negative.

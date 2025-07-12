@@ -25,7 +25,7 @@
   - Matplotlib (Charts)
   - Pillow (Image handling)
  
- ** Model Detail:**
+ ** Model Detail: **
  - Algorithm: Multinomial Naive Bayes
  - Vectorizer: TfidfVectorizer
 - Dataset: 16,000+ labeled product reviews

@@ -11,9 +11,8 @@
 **Project Overview:**
 -This is a GUI-based Sentiment Analysis tool built using Python and Tkinter. It analyzes product reviews, detects user intent, and visualizes the results—all in a visually appealing and interactive interface.      Ideal for businesses looking to quickly interpret customer feedback.
 - It allows user to upload **csv file** and generate a sentiment pie chart to tell percentage of negative and positive sentiment.
--The project uses Navie Bayes classifier.
-- User can upload **CSV file** as well, to check how many positive and negative reviews are there in the csv file.
-- User can see the percentage of positive and negative reviews using **Pie Chart**.
+- Users can also manually enter the reviews for analyzing.
+-The project uses **Navie Bayes classifier**.
 - There is also a **Stored Reviews** section which stores all the reviews analyzed by the user.
 - There is a **Reset All** button to reset if, any data was entered.
 
@@ -30,7 +29,7 @@
   - Pillow (Image handling)
  
  **Model Detail:**
- - Algorithm: Multinomial Naive Bayes
+ - Algorithm: **Multinomial Naive Bayes**
  - Vectorizer: TfidfVectorizer
 - Dataset: 16,000+ labeled product reviews
 - Accuracy: ~91% on test data
